@@ -1,0 +1,44 @@
+body {
+  font-family: arial, serif;
+  margin:0 auto;
+}
+
+header, footer {
+  background-color:DarkRed;
+  color:White;
+  height:100px;
+  text-align:center;
+  padding: 20px 10px 40px;
+}
+
+header {
+  font-family: cursive;
+}
+
+nav a:link{
+    float:left;
+    padding: 10px;
+    color:DarkRed;
+}
+.clear-float {
+  clear:both;
+}
+nav a:visited{
+  color:white;
+}
+nav a:hover{
+  font-weight:bold;
+}
+nav a:active{
+  text-decoration:none;
+  font-weight: bold;
+}
+nav .btn {
+  background-color:DarkRed;
+   color:white;
+}
+.btn {
+  background-color:DarkRed;
+   color:white;
+ }
+ 
